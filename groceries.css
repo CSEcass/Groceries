@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(186, 186, 186);
+}
+#Title {
+    border-color: grey;
+    border-style: groove;
+    border-width: 10px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+#Flex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    gap: 70px;
+}
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:hover{
+    color: yellow;
+}
+.h1{
+    border-color: grey;
+    border-style: groove;
+    border-width: 5px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin: 0px;
+}
+.p {
+    border-color: grey;
+    border-style: groove;
+    border-width: 5px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin: 0px;
+}
