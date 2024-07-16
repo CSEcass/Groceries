@@ -1,5 +1,6 @@
 body {
     background-color: rgb(186, 186, 186);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #Title {
     border-color: grey;
@@ -44,3 +45,12 @@ a:hover{
     color: yellow;
 }
 /* OPTIONS ^^^^*/
+
+.p {
+    text-align: center;
+
+}
+.h1 {
+    text-align: center;
+    padding: 10px;
+}
