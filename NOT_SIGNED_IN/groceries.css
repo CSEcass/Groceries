@@ -83,8 +83,10 @@ a:hover{
     
 }
 @keyframes testo {
-    from {background-color: black;}
-    to {background-color: red}
+    0% {background-color: black;}
+    50% {background-color: red;}
+    0% {background-color: black;}
+
 }
 img {
     height: 190px;
